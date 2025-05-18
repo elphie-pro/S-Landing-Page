@@ -15,7 +15,7 @@
                     <p class="text-sm">Don't wait to secure your future – choose from Scudo's top <br
                             class="hidden md:block"> insurance products from leading companies and get protected <br
                             class="hidden md:block"> now. Start your coverage today!</p>
-                    <ul class="space-y-8 md:space-y-12 ">
+                    <ul class="space-y-8 md:space-y-12">
                         <li v-for="safe in SafeGuard" class="flex gap-3 mt-5 md:gap-4 items-start w-[90%]">
                             <div v-html="safe.icon" :class="safe.iconColor"
                                 class="shrink-0 p-2 rounded-lg text-white" />
