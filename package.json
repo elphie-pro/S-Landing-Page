@@ -17,6 +17,7 @@
     "nuxt": "^3.15.4",
     "nuxt-marquee": "^1.0.4",
     "vue": "latest",
-    "vue-router": "latest"
+    "vue-router": "latest",
+    "vue3-otp-input": "^0.5.30"
   }
 }
